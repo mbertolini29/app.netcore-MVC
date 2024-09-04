@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VAP_NetCoreApp.Web.props" />
+</Project>

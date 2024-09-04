@@ -1,0 +1,13 @@
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\bin\Debug\net8.0\VAP_NetCoreApp.Models.deps.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\bin\Debug\net8.0\VAP_NetCoreApp.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\bin\Debug\net8.0\VAP_NetCoreApp.Models.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.csproj.AssemblyReference.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.AssemblyInfoInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.AssemblyInfo.cs
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.sourcelink.json
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\refint\VAP_NetCoreApp.Models.dll
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\VAP_NetCoreApp.Models.pdb
+C:\Users\mauro\OneDrive\03 - Dev\.Net c#\MVC\APP .NET MVC\app.netcore-MVC\VAP_NetCoreApp\VAP_NetCoreApp.Models\obj\Debug\net8.0\ref\VAP_NetCoreApp.Models.dll
