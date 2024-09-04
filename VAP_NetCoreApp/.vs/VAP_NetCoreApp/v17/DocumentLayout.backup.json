@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|solutionrelative:vap_netcoreapp.models\\queries\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|solutionrelative:vap_netcoreapp.models\\queries\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|solutionrelative:vap_netcoreapp.models\\queries\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,19 +43,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BaseQuery.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
-              "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
-              "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Users.cs",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Users.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Users.cs",
+              "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T14:07:15.69Z",
+              "WhenOpened": "2024-09-04T15:06:21.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\appsettings.json",
+              "RelativeToolTip": "VAP_NetCoreApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T14:50:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:38:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T14:17:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseQuery.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
+              "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\BaseQuery.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:07:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Database.cs",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Database.cs",
@@ -51,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-04T13:48:52.472Z"
             }

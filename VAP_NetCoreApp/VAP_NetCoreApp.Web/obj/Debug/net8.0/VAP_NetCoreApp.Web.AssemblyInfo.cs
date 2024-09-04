@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VAP_NetCoreApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fdd1f54c9ae689163a25df98e665fe269619350")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e1dada65f034ac211d28623afb2e68d97ddcced")]
 [assembly: System.Reflection.AssemblyProductAttribute("VAP_NetCoreApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VAP_NetCoreApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
