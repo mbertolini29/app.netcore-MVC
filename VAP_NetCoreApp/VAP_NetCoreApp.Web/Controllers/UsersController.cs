@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using VAP_NetCoreApp.Models;
 using VAP_NetCoreApp.Models.Queries;
 using VAP_NetCoreApp.Web.Models;
 
@@ -21,6 +22,25 @@ namespace VAP_NetCoreApp.Web.Controllers
         public IActionResult Index()
         {
             return View(_database.Users.GetAll());
+        }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(User user)
+        {
+            var result = _database.Users.Create(user); 
+            if(!result.Success)
+            {
+                ModelState.AddModelError(string.Empty, result.Message);
+                return View(user);
+            }
+
+            return RedirectToAction(nameof(Index));
         }
     }
 }

@@ -23,5 +23,26 @@ namespace VAP_NetCoreApp.Models.Queries
             }
             return users;
         }
+
+        /// <summary
+        /// Crea un nuevo usuario en la tabla user
+        /// </summary
+        /// <param name ="user">Objeto usuario con las propiedades a guardar</param>
+        /// <returns>BaseResult indicando si se agrego el registro o si hubo un error, muestra el mensaje en Message</returns>        
+        public BaseResult Create(User user)
+        {
+            var rowsAffected = 0;
+            using (var db = GetConnection())
+            {
+                rowsAffected = db.Execute(@"INSERT INTO [User] (Email, Balance, Age, RoleID) 
+                                                 VALUES (@Email, @Balance, @Age, @RoleID)", user); 
+            }
+            
+            return new BaseResult
+            {
+                Success = rowsAffected > 0,
+                Message = rowsAffected > 0 ? string.Empty : "Por favor contactanos para revisar el problema con este usuario."
+            };
+        }
     }
 }
