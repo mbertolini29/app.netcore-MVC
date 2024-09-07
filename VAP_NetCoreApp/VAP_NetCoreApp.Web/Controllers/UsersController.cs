@@ -33,7 +33,7 @@ namespace VAP_NetCoreApp.Web.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(User user)
         {
-            var result = _database.Users.Create(user); 
+            var result = _database.Users.CreateUsingStoredProcedure(user); 
             if(!result.Success)
             {
                 ModelState.AddModelError(string.Empty, result.Message);
