@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|solutionrelative:vap_netcoreapp.models\\queries\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,22 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.models\\queries\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38D14474-1B61-46B6-97C7-3345FAFBB67C}|VAP_NetCoreApp.Models\\VAP_NetCoreApp.Models.csproj|solutionrelative:vap_netcoreapp.models\\queries\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|c:\\users\\mauro\\onedrive\\03 - dev\\.net c#\\mvc\\app .net mvc\\app.netcore-mvc\\vap_netcoreapp\\vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A969EEB-07E4-4CC4-A845-2D232BCD4881}|VAP_NetCoreApp.Web\\VAP_NetCoreApp.Web.csproj|solutionrelative:vap_netcoreapp.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,56 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Users\\Index.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAD8AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T15:16:50.8Z",
+              "WhenOpened": "2024-09-10T13:51:44.756Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Users\\Edit.cshtml",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Edit.cshtml",
               "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Users\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T14:32:43.085Z",
+              "WhenOpened": "2024-09-10T14:08:59.173Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "VAP_NetCoreApp.Web\\Views\\Users\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T13:35:23.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
               "RelativeToolTip": "VAP_NetCoreApp.Web\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwEMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:17:46.007Z",
               "EditorCaption": ""
@@ -95,40 +80,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Database.cs",
-              "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Database.cs",
-              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Database.cs",
-              "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\Database.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:16:19.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Users.cs",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Users.cs",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Users.cs",
               "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\Users.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGMAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAewHMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:08:46.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Roles.cs",
               "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Roles.cs",
               "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Roles.cs",
               "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\Roles.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:08:40.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Database.cs",
+              "RelativeDocumentMoniker": "VAP_NetCoreApp.Models\\Queries\\Database.cs",
+              "ToolTip": "C:\\Users\\mauro\\OneDrive\\03 - Dev\\.Net c#\\MVC\\APP .NET MVC\\app.netcore-MVC\\VAP_NetCoreApp\\VAP_NetCoreApp.Models\\Queries\\Database.cs",
+              "RelativeToolTip": "VAP_NetCoreApp.Models\\Queries\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:16:19.2Z",
               "EditorCaption": ""
             }
           ]

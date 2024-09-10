@@ -108,5 +108,25 @@ namespace VAP_NetCoreApp.Models.Queries
                 Message = rowsAffected > 0 ? string.Empty : "Por favor contactanos para revisar el problema con este usuario."
             };
         }
+
+        /// <summary
+        /// Elimina al usuario en la tabla user, usando un DELETE directo en C#
+        /// </summary
+        /// <returns>BaseResult indicando si se elimino el registro o si hubo un error, muestra el mensaje en Message</returns>        
+        public BaseResult Delete(int id)
+        {
+            var rowsAffected = 0;
+            using (var db = GetConnection())
+            {
+                rowsAffected = db.Execute(@"DELETE FROM [User]
+                                               WHERE ID = @ID", new { ID = id });
+            }
+
+            return new BaseResult
+            {
+                Success = rowsAffected > 0,
+                Message = rowsAffected > 0 ? string.Empty : "No se pudo eliminar el usuario."
+            };
+        }
     }
 }

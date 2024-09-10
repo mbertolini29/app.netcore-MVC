@@ -84,5 +84,34 @@ namespace VAP_NetCoreApp.Web.Controllers
         }
 
         #endregion
+        #region Delete
+
+        public IActionResult Delete(int id)
+        {
+            var user = _database.Users.GetById(id);
+            if (user == null)
+                return NotFound();
+
+            //SetRolesInViewBag();
+            return View(user);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            var result = _database.Users.Delete(id);
+            if (!result.Success)
+            {
+                ModelState.AddModelError(string.Empty, result.Message);
+                var user = _database.Users.GetById(id);
+                //  SetRolesInViewBag();
+                return View(user);
+            }
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        #endregion
     }
 }
